@@ -22,3 +22,5 @@ and in the body of the request upload your two python files.
 - make sure the files are compiled correctly, should not have syntactical errors.
 - the first argument should be your **Source code** and the second should be **reference code** for which you want to check
 plagiarism.
+
+![alt text](postman.png "A screenshot using Postman for POST request")
