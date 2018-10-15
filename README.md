@@ -17,6 +17,7 @@ Now make **POST** request using POSTMAN or some other service to make a request 
 and in the body of the request upload your two python files.
 
 **NOTE**
+- **Important** Use only modular python codes i.e code must be written within functions.
 - use **.txt** version of the files, don't upload .py files.
 - make sure the files are compiled correctly, should not have syntactical errors.
 - the first argument should be your **Source code** and the second should be **reference code** for which you want to check
