@@ -7,10 +7,10 @@
 
 **Go to wecp_assignment/api/wecp_assign** and run -
 
-'''
+```
 python manage.py runserver
 
-'''
+```
 Now make **POST** request using POSTMAN or some other service to make a request to - **http://127.0.0.1:8000/api/show/**
 and in the body of the request upload your two python files.
 
