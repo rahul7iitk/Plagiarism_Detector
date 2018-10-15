@@ -1,6 +1,8 @@
 # Plagiarism_Detector
 **A basic python API developed on django platform for calculating similarity percentage/plagiarism percentage between original and reference code.**
 
+This is a simple plagiarism detection tool for python code, the basic idea is to normalize python AST representation and use difflib to get the modification from referenced code to candidate code. The plagiarism defined in pycode_similar is how many referenced code is plagiarized by candidate code, which means swap referenced code and candidate code will get different result.
+
 - Clone the repo on to your system.
 - Add all the requirements to your system as mentioned in requirements.txt.
 - You can use a virtual environment if you want to keep your development environment seperate.
